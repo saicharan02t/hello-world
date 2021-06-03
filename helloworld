@@ -1,0 +1,3 @@
+class hello{
+System.ot.println("hello world");
+}
